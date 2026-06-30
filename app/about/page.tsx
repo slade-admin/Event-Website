@@ -1,0 +1,1 @@
+export default function AboutPage() { return <main className="page"><div className="container"><h1>About M&M Events</h1><p>Luxury event planning built around creativity, professionalism, reliability, and unforgettable celebrations.</p></div></main>; }

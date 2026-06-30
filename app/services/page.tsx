@@ -1,0 +1,1 @@
+export default function ServicesPage() { return <main className="page"><div className="container"><h1>Services</h1><p>Wedding planning, baby showers, graduations, birthdays, corporate events, and custom celebrations.</p></div></main>; }
